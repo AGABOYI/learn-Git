@@ -1,4 +1,4 @@
-# Lear about git and gitHub
+# Learn about git and gitHub
 ``` javascript
-console.log("Hey world!");
+console.log("Hey world, Hero is approaching");
 ```
